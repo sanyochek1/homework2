@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6AFC1154-F04D-4B3F-9898-DE62797738CB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tyryshkin</RootNamespace>
-    <AssemblyName>tyryshkin</AssemblyName>
+    <RootNamespace>homework2</RootNamespace>
+    <AssemblyName>homework2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
